@@ -1,4 +1,4 @@
-# layouts
+# Layouts
 
 A new Flutter project.
 
