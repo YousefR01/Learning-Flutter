@@ -1,6 +1,6 @@
-# login_page
+# login page
 
-Login Page.
+Simple Login Page.
 
 ## Getting Started
 
