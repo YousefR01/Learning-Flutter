@@ -1,4 +1,4 @@
-# Bottom NavBar and Links
+# BottomNavigationBar and Links
 
 A new Flutter project.
 
